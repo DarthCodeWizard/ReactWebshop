@@ -1,0 +1,44 @@
+.editProductContainer{
+    width:100%;
+    background-color: white;
+    text-align: left;
+    margin:30px;
+    color:black;
+    font-size:14pt;
+}
+
+.fieldName{
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight: bold;
+}
+
+.fieldValue{
+    height: 30px;
+    line-height: 30px;
+    padding-bottom:5px;
+}
+.fieldValue input,textarea, select{
+    height: 30px;
+    min-width:250px;
+    padding-left:5px;
+}
+
+.fieldValue textarea{
+    height: 150px;
+}
+
+.buttonContainer{
+margin-top:150px;
+
+}
+.button{
+    width:200px;
+    height:40px;
+    background-color:#3578E5;
+    color:white;
+    cursor:pointer;
+}
+/* .fieldValue select{
+   height: 40px;
+} */

@@ -1,0 +1,15 @@
+.menuContainer{
+  height:40px;
+  width:100%;
+  background-color: #3578E5;
+  padding-top:15px;
+  color:white;
+}
+.menuItems{
+  padding-left:20px;
+  cursor: pointer;
+  width: 100px;
+  display:inline-block;
+  text-decoration: none;
+  color: white;
+}
